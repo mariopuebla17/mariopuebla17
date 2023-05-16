@@ -1,8 +1,6 @@
 ### Oi, eu sou o Goku!
 
 Brincadeira, eu sou o Mario mesmo. Mas tenho certeza que você leu com a mesma voz do Goku na sua cabeça!
-
-- 🌱 Estudante de desenvolvimento web!
 - 💻 Desenvolvedor Web na ESMenezes
 - 🧑‍🏫 Professor de Informática na ETEC
 ##
