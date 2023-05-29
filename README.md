@@ -29,6 +29,6 @@ Profissional de TI apaixonado por aprendizagem contínua, com experiência como 
 
 ### 📊 Estatísticas
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mariopuebla17&show_icons=true&theme=dark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopuebla17&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mariopuebla17&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopuebla17&layout=compact&langs_count=16&theme=dark#gh-dark-mode-only"/>
 </div>
