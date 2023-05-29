@@ -1,4 +1,4 @@
-# Mario Puebla Junior
+# 👨🏻‍💻 Mario Puebla Junior
 
 **`Desenvolvedor Web e Professor`**
 
@@ -6,7 +6,7 @@ Profissional de TI apaixonado por aprendizagem contínua, com experiência como 
 
 ---
 
-### Linguagens e Ferramentas
+### 🧰 Linguagens e Ferramentas
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -27,6 +27,7 @@ Profissional de TI apaixonado por aprendizagem contínua, com experiência como 
 
 #
 
+### 📊 Estatísticas
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mariopuebla17&show_icons=true&theme=dark"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopuebla17&layout=compact&langs_count=16&theme=dark"/>
