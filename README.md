@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Mario Puebla Junior
 
-**`Desenvolvedor Web e Professor`**
+**`Analista de Suporte, Desenvolvedor Web e Professor`**
 
 Profissional de TI apaixonado por aprendizagem contínua, com experiência como suporte técnico e uma transição de carreira em 2018. Em 2022, me recoloquei como desenvolvedor web e aprodundei conhecimentos em frameworks e leis de proteção de dados. Em 2023, realizei meu sonho de dar aulas na ETEC. Acredito na jornada de aprendizagem contínua e sempre busco novos desafios. Pronto para contribuir na área de TI com soluções eficientes e seguras.
 
