@@ -2,8 +2,8 @@
 
 **`Analista de Suporte, Desenvolvedor Web e Professor`**
 
-Profissional de TI apaixonado por aprendizagem contínua, com experiência como suporte técnico e uma transição de carreira em 2018. Em 2022, me recoloquei como desenvolvedor web e aprodundei conhecimentos em frameworks e leis de proteção de dados.
-Em 2023, realizei meu sonho de dar aulas na ETEC. No segundo semestre desse mesmo ano, retomei minha carreira no suporte, e com um desafio maior: colocar em prática o inglês e espanhol
+Profissional de TI apaixonado por aprendizagem contínua, com experiência como suporte técnico e uma transição de carreira em 2018. Em 2022, me recoloquei como desenvolvedor web e aprodundei conhecimentos em frameworks e leis de proteção de dados.  
+Em 2023, realizei meu sonho de dar aulas na ETEC. No segundo semestre desse mesmo ano, retomei minha carreira no suporte, e com um desafio maior: colocar em prática o inglês e espanhol.  
 Acredito na jornada de aprendizagem contínua e sempre busco novos desafios. Pronto para contribuir na área de TI com soluções eficientes e seguras.
 
 ---
@@ -32,5 +32,4 @@ Acredito na jornada de aprendizagem contínua e sempre busco novos desafios. Pro
 ### 📊 Estatísticas
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mariopuebla17&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopuebla17&layout=compact&langs_count=16&theme=dark#gh-dark-mode-only"/>
 </div>
