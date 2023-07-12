@@ -2,9 +2,11 @@
 
 **`Analista de Suporte, Desenvolvedor Web e Professor`**
 
-Profissional de TI apaixonado por aprendizagem contínua, com experiência como suporte técnico e uma transição de carreira em 2018. Em 2022, me recoloquei como desenvolvedor web e aprodundei conhecimentos em frameworks e leis de proteção de dados.  
-Em 2023, realizei meu sonho de dar aulas na ETEC. No segundo semestre desse mesmo ano, retomei minha carreira no suporte, e com um desafio maior: colocar em prática o inglês e espanhol.  
-Acredito na jornada de aprendizagem contínua e sempre busco novos desafios. Pronto para contribuir na área de TI com soluções eficientes e seguras.
+Trabalhei como Analista de Suporte desde 2012, mas decidi mudar minha carreira em 2018. Comecei a estudar diariamente e a me aperfeiçoar participando de eventos e fazendo cursos online.  
+Consegui um estágio na área em 2019 e, após um ano, fui contratado para atuar em uma grande empresa de comunicação. Durante a pandemia, agarrei a oportunidade de trabalhar com delivery nos EUA, o que me permitiu desenvolver minhas habilidades em idiomas e soft skills.  
+Quando retornei ao Brasil, em 2022, me recoloquei no mercado como desenvolvedor web e comecei a me aprofundar em frameworks de projetos e leis de proteção de dados.   
+Finalmente, em 2023, consegui realizar meu sonho de dar aulas na ETEC.  Ainda no mesmo ano, no segundo semestre, consegui atingir outro objetivo pessoal, que era voltar a atuar como Analista de Suporte em uma grande empresa, colocando em prática todo conhecimento adquirido até aqui, e o mais desafiador, atender clientes em inglês e espanhol.  
+Aprendi que a jornada da aprendizagem nunca termina e que sempre há novos desafios a serem enfrentados, o que me motiva a seguir em frente e buscar sempre o meu melhor.
 
 ---
 
