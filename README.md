@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Mario Puebla Junior
 
-**`Analista de Suporte, Desenvolvedor Web e Professor`**
+**`Analista de Suporte e Sustentação, Desenvolvedor Web e Professor`**
 
 Trabalhei como Analista de Suporte desde 2012, mas decidi mudar minha carreira em 2018. Comecei a estudar diariamente e a me aperfeiçoar participando de eventos e fazendo cursos online.  
 Consegui um estágio na área em 2019 e, após um ano, fui contratado para atuar em uma grande empresa de comunicação. Durante a pandemia, agarrei a oportunidade de trabalhar com delivery nos EUA, o que me permitiu desenvolver minhas habilidades em idiomas e soft skills.  
