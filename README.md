@@ -2,10 +2,8 @@
 
 **`Analista de Suporte e Sustentação, Desenvolvedor Web e Professor`**
 
-Trabalhei como Analista de Suporte desde 2012, mas decidi mudar minha carreira em 2018. Comecei a estudar diariamente e a me aperfeiçoar participando de eventos e fazendo cursos online.  
-Consegui um estágio na área em 2019 e, após um ano, fui contratado para atuar em uma grande empresa de comunicação. Durante a pandemia, agarrei a oportunidade de trabalhar com delivery nos EUA, o que me permitiu desenvolver minhas habilidades em idiomas e soft skills.  
-Quando retornei ao Brasil, em 2022, me recoloquei no mercado como desenvolvedor web e comecei a me aprofundar em frameworks de projetos e leis de proteção de dados.   
-Finalmente, em 2023, consegui realizar meu sonho de dar aulas na ETEC.  Ainda no mesmo ano, no segundo semestre, consegui atingir outro objetivo pessoal, que era voltar a atuar como Analista de Suporte em uma grande empresa, colocando em prática todo conhecimento adquirido até aqui, e o mais desafiador, atender clientes em inglês e espanhol.  
+Atuando com TI desde 2012, passando por experiências desde suporte técnico, até desenvolvimento de sistemas.
+Formado em Análise e Desenvolvimento de Sistemas, e atualmente ingressado no curso de Licenciatura em Informática, visando aprimorar as habilidades para seguir dando aulas, onde atuo desde 2023.  
 Aprendi que a jornada da aprendizagem nunca termina e que sempre há novos desafios a serem enfrentados, o que me motiva a seguir em frente e buscar sempre o meu melhor.
 
 ---
@@ -24,8 +22,8 @@ Aprendi que a jornada da aprendizagem nunca termina e que sempre há novos desaf
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <br/>
 
