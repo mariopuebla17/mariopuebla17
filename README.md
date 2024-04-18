@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Mario Puebla Junior
 
-**`Analista de Suporte e Sustentação, Desenvolvedor Web e Professor`**
+**`Analista de Suporte e Sustentação, Desenvolvedor Fullstack e Professor`**
 
 Atuando com TI desde 2012, passando por experiências desde suporte técnico, até desenvolvimento de sistemas.
 Formado em Análise e Desenvolvimento de Sistemas, e atualmente ingressado no curso de Licenciatura em Informática, visando aprimorar as habilidades para seguir dando aulas, onde atuo desde 2023.  
