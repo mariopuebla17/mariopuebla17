@@ -2,9 +2,8 @@
 
 **`Analista de Suporte e Sustentação, Desenvolvedor Fullstack e Professor`**
 
-Atuando com TI desde 2012, passando por experiências desde suporte técnico, até desenvolvimento de sistemas.
-Formado em Análise e Desenvolvimento de Sistemas, e atualmente ingressado no curso de Licenciatura em Informática, visando aprimorar as habilidades para seguir dando aulas, onde atuo desde 2023.  
-Aprendi que a jornada da aprendizagem nunca termina e que sempre há novos desafios a serem enfrentados, o que me motiva a seguir em frente e buscar sempre o meu melhor.
+Atuando com TI desde 2012, passando por experiências desde suporte técnico, desenvolvimento de sistemas e até lecionando aulas. Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Flamingo e 2 cursos técnicos pela ETEC Aprígio Gonzaga.
+A jornada da aprendizagem nunca termina e sempre há novos desafios a serem enfrentados, o que me motiva a seguir em frente e buscar sempre o meu melhor.
 
 ---
 
