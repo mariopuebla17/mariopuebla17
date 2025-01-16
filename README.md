@@ -27,8 +27,8 @@ A jornada da aprendizagem nunca termina e sempre há novos desafios a serem enfr
 #
 ### 📊 Estatísticas
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mariopuebla17&rank_icon=github&theme=dark#gh-dark-mode-only" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mariopuebla17&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariopuebla17&hide_progress=true&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariopuebla17&hide_progress=true&langs_count=8&card_width=320" />
 </a>
