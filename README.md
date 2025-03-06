@@ -3,7 +3,7 @@
 
 **`Analista de Suporte e Sustentação, Desenvolvedor Fullstack e Professor`**
 
-Com uma carreira na área de Tecnologia da Informação iniciada em 2012, acumulo uma vasta experiência que abrange desde suporte técnico e desenvolvimento de sistemas até a docência. Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Flamingo e possuo dois cursos técnicos concluídos na ETEC Aprígio Gonzaga.
+Com uma carreira no universo das tecnologias e serviços da informação a ter início em 2012, venho acumulando uma apreciável experiência nesta área que cobre desde o suporte técnico e o desenvolvimento de aplicações até à docência. Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Flamingo e tenho dois cursos profissionais finalizados na ETEC Aprígio Gonzaga.
 #
 ### 🧰 Linguagens e Ferramentas
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
