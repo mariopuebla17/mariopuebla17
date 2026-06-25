@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Mario Puebla Junior
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" width="36" alt="Handlebars"/> Mario Puebla Junior
 
 
 **`Analista de Suporte e Sustentação, Desenvolvedor Fullstack e Professor`**  
