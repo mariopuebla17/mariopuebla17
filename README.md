@@ -2,7 +2,9 @@
 
 
 **`Analista de Suporte e Sustentação, Desenvolvedor Fullstack e Professor`**  
-Com uma carreira no universo das tecnologias e serviços da informação a ter início em 2012, venho acumulando uma apreciável experiência nesta área que cobre desde o suporte técnico e o desenvolvimento de aplicações até à docência. Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Flamingo e tenho dois cursos profissionais finalizados na ETEC Aprígio Gonzaga. Cursando Pós-Graduação em Desenvolvimento Web no Senac São Paulo e MBA em IA para Negócios na Exame Saint Paul.
+Profissional de Tecnologia da Informação com experiência desde 2012 em desenvolvimento de software, análise de sistemas, integrações, automação e educação tecnológica.
+Formado em Análise e Desenvolvimento de Sistemas, com especializações em Desenvolvimento Web e Inteligência Artificial para Negócios, atualmente direcionando meus estudos para Vibe Coding e engenharia de software potencializada por IA.
+Acredito no uso estratégico da tecnologia para transformar desafios em soluções, unindo sistemas, dados, automação e inteligência artificial para gerar impacto real nos negócios.
 #
 ### 🧰 Linguagens e Ferramentas
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
